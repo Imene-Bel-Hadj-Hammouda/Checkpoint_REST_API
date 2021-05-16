@@ -1,0 +1,11 @@
+.main{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.cardFooter{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
